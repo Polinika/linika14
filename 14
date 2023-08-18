@@ -1,0 +1,240 @@
+<RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="313dp" 
+  android:layout_height="710dp" 
+  android:background="#000000"> 
+</RelativeLayout><TextView 
+  android:layout_width="158dp" 
+  android:layout_height="40dp" 
+  android:fontFamily="@font/inter" 
+  android:textStyle="normal" 
+  android:textSize="40sp" 
+  android:textColor="#ffffff" 
+  tools:text="Memes"/>                                     <View 
+  android:layout_width="270dp" 
+  android:layout_height="54dp" 
+  android:background="#666666"> 
+</View>                   <TextView 
+  android:layout_width="wrap_content" 
+  android:layout_height="wrap_content" 
+  android:fontFamily="@font/inter" 
+  android:textStyle="normal" 
+  android:textSize="40sp" 
+  android:textColor="#ffffff" 
+  tools:text="начать"/><View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View>                                                             <View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View                                                                <RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="360dp" 
+  android:layout_height="800dp" 
+  android:<View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View                                                           <TextView 
+  android:layout_width="wrap_content" 
+  android:layout_height="wrap_content" 
+  android:fontFamily="@font/inter" 
+  android:textStyle="normal" 
+  android:textSize="20sp" 
+  android:textColor="#ffffff" 
+  tools:text="мем №3"/>                                 <View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View><TextView 
+  android:layout_width="wrap_content" 
+  android:layout_height="wrap_content" 
+  android:fontFamily="@font/inter" 
+  android:textStyle="normal" 
+  android:textSize="20sp" 
+  android:textColor="#ffffff" 
+  tools:text="мем №4"/>                                <View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View>                                                              <TextView 
+  android:layout_width="wrap_content" 
+  android:layout_height="wrap_content" 
+  android:fontFamily="@font/inter" 
+  android:textStyle="normal" 
+  android:textSize="20sp" 
+  android:textColor="#ffffff" 
+  tools:text="мем №5"/><View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View>                                                             <TextView 
+  android:layout_width="wrap_content" 
+  android:layout_height="wrap_content" 
+  android:fontFamily="@font/inter" 
+  android:textStyle="normal" 
+  android:textSize="20sp" 
+  android:textColor="#ffffff" 
+  tools:text="мем №6"/> 
+                                                                  <View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View><View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View><TextView 
+  android:layout_width="wrap_content" 
+  android:layout_height="wrap_content" 
+  android:fontFamily="@font/inter" 
+  android:textStyle="normal" 
+  android:textSize="20sp" 
+  android:textColor="#ffffff" 
+  tools:text="мем №7"/>                                <View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View><TextView 
+  android:layout_width="wrap_content" 
+  android:layout_height="wrap_content" 
+  android:fontFamily="@font/inter" 
+  android:textStyle="normal" 
+  android:textSize="20sp"
+android:textColor="#ffffff" 
+  tools:text="мем №8"/>                                 <View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View>                                                            <TextView 
+  android:layout_width="wrap_content" 
+  android:layout_height="wrap_content" 
+  android:fontFamily="@font/inter" 
+  android:textStyle="normal" 
+  android:textSize="20sp" 
+  android:textColor="#ffffff" 
+  tools:text="мем №9"/><View 
+  android:layout_width="310dp" 
+  android:layout_height="27dp" 
+  android:background="#9398b6"> 
+</View>                                                            <TextView 
+  android:layout_width="wrap_content" 
+  android:layout_height="wrap_content" 
+  android:fontFamily="@font/inter" 
+  android:textStyle="normal" 
+  android:textSize="20sp" 
+  android:textColor="#ffffff" 
+  tools:text="мем №10"/>                              <View 
+  android:layout_width="270dp" 
+  android:layout_height="54dp" 
+  android:background="#666666"> 
+</View><RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="360dp" 
+  android:layout_height="800dp" 
+  android:background="#000000"> 
+</RelativeLayout>                                            <View 
+  android:layout_width="317.7dp" 
+  android:layout_height="236.9dp"> 
+</View>                                                             <View 
+  android:layout_width="270dp" 
+  android:layout_height="54dp" 
+  android:background="#666666"> 
+</View><RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="360dp" 
+  android:layout_height="800dp" 
+  android:background="#000000"> 
+</RelativeLayout>                                           <View 
+  android:layout_width="333dp" 
+  android:layout_height="273dp"> 
+</View>                                                           <View 
+  android:layout_width="333dp" 
+  android:layout_height="273dp"> 
+</View><RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="360dp" 
+  android:layout_height="800dp" 
+  android:background="#000000"> 
+</RelativeLayout>                                          <View 
+  android:layout_width="286dp" 
+  android:layout_height="143dp"> 
+</View>                                                           <View 
+  android:layout_width="270dp" 
+  android:layout_height="54dp" 
+  android:background="#666666"> 
+</View><RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="360dp" 
+  android:layout_height="800dp" 
+  android:background="#000000"> 
+</RelativeLayout>                                          <View 
+  android:layout_width="318dp" 
+  android:layout_height="237dp"> 
+</View>                                                              <View 
+  android:layout_width="270dp" 
+  android:layout_height="54dp" 
+  android:background="#666666"> 
+</View><RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="360dp" 
+  android:layout_height="800dp" 
+  android:background="#000000"> 
+</RelativeLayout>                                            <View 
+  android:layout_width="339dp" 
+  android:layout_height="215dp"> 
+</View>                                                            <View 
+  android:layout_width="270dp" 
+  android:layout_height="54dp" 
+  android:background="#666666"> 
+</View><RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="360dp" 
+  android:layout_height="800dp" 
+  android:background="#000000"> 
+</RelativeLayout>                                           <View 
+  android:layout_width="292.2dp" 
+  android:layout_height="247.2dp"> 
+</View>                                                             <View
+android:layout_width="270dp" 
+  android:layout_height="54dp" 
+  android:background="#666666"> 
+</View><RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="360dp" 
+  android:layout_height="800dp" 
+  android:background="#000000"> 
+</RelativeLayout>                                             <View 
+  android:layout_width="308dp" 
+  android:layout_height="258dp"> 
+</View>                                                             <View 
+  android:layout_width="270dp" 
+  android:layout_height="54dp" 
+  android:background="#666666"> 
+</View><RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="360dp" 
+  android:layout_height="800dp" 
+  android:background="#000000"> 
+</RelativeLayout>                                           <View 
+  android:layout_width="262dp" 
+  android:layout_height="252dp"> 
+</View>                                                              <View 
+  android:layout_width="270dp" 
+  android:layout_height="54dp" 
+  android:background="#666666"> 
+</View><RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="360dp" 
+  android:layout_height="800dp" 
+  android:background="#000000"> 
+</RelativeLayout>                                          <View 
+  android:layout_width="320dp" 
+  android:layout_height="240dp"> 
+</View>                                                             <View 
+  android:layout_width="270dp" 
+  android:layout_height="54dp" 
+  android:background="#666666"> 
+</View>
